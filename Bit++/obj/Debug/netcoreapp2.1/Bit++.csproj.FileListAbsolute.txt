@@ -1,0 +1,11 @@
+F:\Tutorial\Contest\Bit++\Bit++\bin\Debug\netcoreapp2.1\Bit++.deps.json
+F:\Tutorial\Contest\Bit++\Bit++\bin\Debug\netcoreapp2.1\Bit++.runtimeconfig.json
+F:\Tutorial\Contest\Bit++\Bit++\bin\Debug\netcoreapp2.1\Bit++.runtimeconfig.dev.json
+F:\Tutorial\Contest\Bit++\Bit++\bin\Debug\netcoreapp2.1\Bit++.dll
+F:\Tutorial\Contest\Bit++\Bit++\bin\Debug\netcoreapp2.1\Bit++.pdb
+F:\Tutorial\Contest\Bit++\Bit++\obj\Debug\netcoreapp2.1\Bit++.csproj.CoreCompileInputs.cache
+F:\Tutorial\Contest\Bit++\Bit++\obj\Debug\netcoreapp2.1\Bit++.AssemblyInfoInputs.cache
+F:\Tutorial\Contest\Bit++\Bit++\obj\Debug\netcoreapp2.1\Bit++.AssemblyInfo.cs
+F:\Tutorial\Contest\Bit++\Bit++\obj\Debug\netcoreapp2.1\Bit++.dll
+F:\Tutorial\Contest\Bit++\Bit++\obj\Debug\netcoreapp2.1\Bit++.pdb
+F:\Tutorial\Contest\Bit++\Bit++\obj\Debug\netcoreapp2.1\Bit++.csprojAssemblyReference.cache
